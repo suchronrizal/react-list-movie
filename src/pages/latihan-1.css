@@ -1,0 +1,21 @@
+.wrap {
+  margin: 5rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  flex-direction: column;
+}
+
+.wrap .bg {
+  width: 12rem;
+  height: 10rem;
+  border: 1px solid #010101;
+  display: block;
+}
+
+.wrap input {
+  padding: 0.5rem;
+  border: 1px solid #747474;
+  border-radius: 0.25rem;
+}
